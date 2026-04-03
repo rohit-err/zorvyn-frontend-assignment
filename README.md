@@ -2,6 +2,8 @@
 
 A clean, interactive finance dashboard built with React, Vite, and Tailwind CSS.
 
+**Live Demo:** https://zorvyn-frontend-assignment-alpha.vercel.app
+
 ## Setup
 
 ```bash
@@ -10,6 +12,13 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173).
+
+## Deployment
+
+The project is deployed on Vercel. To deploy your own instance:
+1. Push the repository to GitHub
+2. Import the repo on [vercel.com](https://vercel.com)
+3. Vercel auto-detects Vite — click Deploy
 
 ## Tech Stack
 
